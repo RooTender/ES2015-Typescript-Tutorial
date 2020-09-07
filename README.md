@@ -1,2 +1,2 @@
-# ES2015-Typescript-Tutorial
-All the files pertaining to the Youtube tutorial series
+# ES2015 & Typescript Tutorial
+Here are forked files from YT series. Renamed for easier usage
